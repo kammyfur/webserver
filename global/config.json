@@ -1,0 +1,7 @@
+{
+    "port": 8080,
+    "document_root": "./root",
+    "access": "$dir.json",
+    "verbose": false,
+    "errors_show_trace": false
+}

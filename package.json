@@ -1,0 +1,14 @@
+{
+  "name": "mpws",
+  "version": "1.0.0",
+  "description": "Minteck Projects Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-mime": "^1.0.0"
+  }
+}
